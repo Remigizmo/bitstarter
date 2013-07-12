@@ -2,7 +2,7 @@ var express = require('express');
 
 var fs = require('fs');
 
-var text = fs.readFileSync("/index.html","utf8");
+var text = fs.readFileSync('index.html','utf8');
 
 
 
